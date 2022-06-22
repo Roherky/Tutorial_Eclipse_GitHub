@@ -5,4 +5,18 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ProyectoGit</name>
 	<description>Proyecto en Github</description>
+
+	<properties>
+		<maven.compiler.source>11</maven.compiler.source>
+		<maven.compiler.targer>11</maven.compiler.targer>
+	</properties>
+
+	<dependencies>
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+			<version>1.18.24</version>
+			<scope>provided</scope>
+		</dependency>
+	</dependencies>
 </project>
