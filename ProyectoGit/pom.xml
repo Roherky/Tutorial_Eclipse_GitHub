@@ -6,11 +6,6 @@
 	<name>ProyectoGit</name>
 	<description>Proyecto en Github</description>
 
-	<properties>
-		<maven.compiler.source>11</maven.compiler.source>
-		<maven.compiler.targer>11</maven.compiler.targer>
-	</properties>
-
 	<dependencies>
 		<dependency>
 			<groupId>org.projectlombok</groupId>
